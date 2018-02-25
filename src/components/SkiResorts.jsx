@@ -8,10 +8,10 @@ class App extends Component {
       skiResorts: [
         {
           name: 'adaafadfsdfsdfSDFSfa',
-          height: '152d m',
-          price: '50d PLN',
-          opening_hours: '11:00-20:00',
-          opinion: 'Great asd place for beginners',
+          heighsssst: '152d m',
+          pricessss: '50d PLN',
+          opening_ssssshours: '11:00-20:00',
+          opinionssssss: 'Great asd place for beginners',
         }
       ],
     }
