@@ -7,11 +7,11 @@ class App extends Component {
     this.state = {
       skiResorts: [
         {
-          name: 'Górka Szczęśliwicka',
-          height: '152 m',
-          price: '50 PLN',
-          opening_hours: '10:00-20:00',
-          opinion: 'Great place for beginners',
+          name: 'adaafadfsdfsdfSDFSfa',
+          height: '152d m',
+          price: '50d PLN',
+          opening_hours: '11:00-20:00',
+          opinion: 'Great asd place for beginners',
         }
       ],
     }
