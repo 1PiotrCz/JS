@@ -10,6 +10,7 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">Welcome to React</h1>
         </header>
+		<h2>test</h2>
         <SkiResorts/>
       </div>
     );
